@@ -1,12 +1,3 @@
-<style>
-    .techs, a {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        padding: 1rem;
-        
-    }
-</style>    
 
 ## Hello!
 ### My name is Letícia
