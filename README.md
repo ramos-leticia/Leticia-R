@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <h2> Contact: </h2>
 
-<a hrf="https://www.linkedin.com/in/ramos-leticia/"> 
+<a href="https://www.linkedin.com/in/ramos-leticia/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" width="50">
 </a>
 
