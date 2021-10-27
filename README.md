@@ -1,9 +1,11 @@
 
-## Hello!
-### My name is Letícia
-### I'm currently studying to be a Full-stack developer
-<br>
-<hr>
+# Hello, my name is Letícia Ramos!
+
+<p align="left"> <img src="https://img.shields.io/github/followers/Leticia-R?color=purple&style=for-the-badge" alt="Profile views" /> </p>
+
+
+- 🚀 I'm currently studying to be a web developer
+- 🌱 I’m currently learning Javascript and C#
 <br>
 
 <!--
@@ -21,39 +23,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## My Github Stats:
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=Leticia-R&show_icons=true&theme=synthwave"/>
-
-<br>
-<hr>
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-R&layout=compact)](https://github.com/Leticia-R/github-readme-stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leticia-R&show_icons=true&theme=synthwave"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-R&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 <br>
-<hr>
 
-<h2> Contact: </h2>
+## Contact:
 
-<a href="https://www.linkedin.com/in/ramos-leticia/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="50" width="50">
-</a>
+<a href="https://www.linkedin.com/in/ramos-leticia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <br>
-<hr>
 
-<h2> Technologies:</h2>
+## Technologies:
 
 <div class="techs">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50" width="50" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" width="50" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="50" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" width="50" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="50" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="50" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="50" width="50" align="center" >
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" width="30" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="30" width="30" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="30" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="30" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" width="30" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="30" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="30" width="30" align="center" >
 
 
 </div>
